@@ -1,6 +1,6 @@
 # Clientclub Downloader
 
-> https://serp.ly/clientclub-downloader
+> Extract ClientClub courses, resources, and coaching materials for offline access
 
 ![Clientclub Downloader](https://raw.githubusercontent.com/serpapps/clientclub-downloader/assets/images/clientclub-downloader.gif)
 
@@ -54,4 +54,10 @@ Clientclub Downloader is a powerful tool that helps you download content from Cl
 ## More Info
 
 - 📁 Repository [here](https://github.com/serpapps/clientclub-downloader)
+
+<details>
+<summary>Keywords</summary>
+
+clientclub downloader
+</details>
 

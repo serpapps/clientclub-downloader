@@ -138,19 +138,19 @@ Start here: [https://serp.ly/clientclub-downloader](https://serp.ly/clientclub-d
 
 ## FAQ
 
-**What kinds of ClientClub videos can I download?**  
+**What kinds of ClientClub videos can I download**  
 Supported portal videos plus supported embedded lesson players inside ClientClub pages.
 
-**Do I need to press play first?**  
+**Do I need to press play first**  
 Yes. Many lesson streams are only exposed after playback begins.
 
-**What file format do downloads use?**  
+**What file format do downloads use**  
 Videos are saved as MP4 files.
 
-**Does it support embedded lesson providers?**  
+**Does it support embedded lesson providers**  
 Yes. Supported platforms include Loom, Vimeo, Wistia, and YouTube when they appear on supported ClientClub pages.
 
-**Do I need extra software?**  
+**Do I need extra software**  
 No. Everything runs through the browser extension.
 
 ## Notes

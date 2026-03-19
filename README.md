@@ -12,15 +12,15 @@ ClientClub Downloader is a browser extension built for users who want a simpler 
 
 ## Links
 
-- 🚀 Get it here: [ClientClub Downloader](https://serp.ly/clientclub-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/clientclub-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/clientclub-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/clientclub-downloader/issues)
+- ðŸš€ Get it here: [ClientClub Downloader](https://serp.ly/clientclub-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/clientclub-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/clientclub-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/clientclub-downloader/issues)
 
 ## Preview
 
-![ClientClub Downloader workflow preview](assets/workflow-preview.svg)
+![ClientClub Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 

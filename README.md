@@ -2,7 +2,6 @@
 
 > Extract ClientClub courses, resources, and coaching materials for offline access
 
-
 ## Get the extension
 
 **Install here:** [ClientClub Downloader](https://serp.ly/clientclub-downloader)
@@ -14,9 +13,8 @@ Use the product page above to get the browser extension and install instructions
 - GitHub repo: https://github.com/serpapps/clientclub-downloader
 - Latest release: https://github.com/serpapps/clientclub-downloader/releases/latest
 
-![Clientclub Downloader](https://raw.githubusercontent.com/serpapps/clientclub-downloader/main/assets/images/clientclub-downloader.gif)
+![ClientClub Downloader](https://raw.githubusercontent.com/serpapps/clientclub-downloader/main/images/clientclub-downloader.jpg)
 
-Clientclub Downloader is a powerful tool that helps you download content from Clientclub instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
 ## Features
 
 - Stream-to-file conversion

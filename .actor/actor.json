@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Browser extension for saving ClientClub trainings and supported embedded lesson videos as MP4 using your active session for offline access.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "clientclub-downloader",
+  "readme": "../README.md",
+  "title": "ClientClub Downloader",
+  "version": "0.0"
+}

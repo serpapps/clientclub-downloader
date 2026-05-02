@@ -2,18 +2,9 @@
 
 > Extract ClientClub courses, resources, and coaching materials for offline access
 
-## Get the extension
+## Get it Here
 
-**Install here:** [ClientClub Downloader](https://serp.ly/clientclub-downloader)
-
-Use the product page above to get the browser extension and install instructions.
-
-- Product page: https://serp.ly/clientclub-downloader
-- Chrome Web Store: https://chromewebstore.google.com/detail/clientclub-downloader/mflejcdofaopecogphmkimehoaocajod
-- GitHub repo: https://github.com/serpapps/clientclub-downloader
-- Latest release: https://github.com/serpapps/clientclub-downloader/releases/latest
-
-![ClientClub Downloader](https://raw.githubusercontent.com/serpapps/clientclub-downloader/main/images/clientclub-downloader.jpg)
+Get it here: https://serp.ly/clientclub-downloader
 
 ## Features
 

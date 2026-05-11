@@ -20,7 +20,9 @@ ClientClub Downloader is a browser extension built for users who want a simpler 
 
 ## Preview
 
-![ClientClub Downloader workflow preview](assets/workflow-preview.webp)
+<a href="https://www.youtube.com/watch?v=zY7GIt0dlLc" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-clientclub-videos.jpg" width="700px">
+</a>
 
 ## Table of Contents
 

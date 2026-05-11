@@ -10,12 +10,6 @@ ClientClub Downloader is a browser extension built for users who want a simpler 
 - Choose from the quality levels exposed by the source
 - Keep local copies for offline study, review, or coaching archives
 
-## Watch The Video
-
-<a href="https://www.youtube.com/watch?v=zY7GIt0dlLc" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-clientclub-videos.jpg" width="700px">
-</a>
-
 ## Links
 
 - :rocket: Get it here: [ClientClub Downloader](https://serp.ly/clientclub-downloader)
@@ -26,7 +20,9 @@ ClientClub Downloader is a browser extension built for users who want a simpler 
 
 ## Preview
 
-![ClientClub Downloader workflow preview](https://raw.githubusercontent.com/serpapps/clientclub-downloader/refs/heads/main/assets/workflow-preview.webp)
+<a href="https://www.youtube.com/watch?v=zY7GIt0dlLc" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-clientclub-videos.jpg" width="700px">
+</a>
 
 ## Table of Contents
 

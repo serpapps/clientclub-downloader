@@ -1,11 +1,5 @@
 # ClientClub Downloader (Browser Extension)
 
-## Watch the video
-
-<a href="https://www.youtube.com/watch?v=zY7GIt0dlLc" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-clientclub-videos.jpg" width="700px">
-</a>
-
 > Download videos from ClientClub and supported GoHighLevel-powered portals as MP4 files for offline access.
 
 ClientClub Downloader is a browser extension built for users who want a simpler way to save lesson and coaching videos from ClientClub portals. It works with supported portal-hosted lessons and common embedded video providers, giving you a browser-first workflow for detecting the lesson video, choosing the available quality, and saving an MP4 file for later playback.

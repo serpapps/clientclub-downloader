@@ -1,4 +1,4 @@
-# ClientClub Downloader (Browser Extension)
+# ClientClub Video Downloader (Browser Extension)
 
 > Download videos from ClientClub and supported GoHighLevel-powered portals as MP4 files for offline access.
 
@@ -12,7 +12,7 @@ ClientClub Downloader is a browser extension built for users who want a simpler 
 
 ## Links
 
-- :rocket: Get it here: [ClientClub Downloader](https://serp.ly/clientclub-downloader)
+- :rocket: Get it here: [ClientClub Downloader](https://serp.ly/clientclub-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/clientclub-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/clientclub-downloader/issues)
@@ -127,7 +127,7 @@ Make sure you are on a ClientClub page or a supported related portal.
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/clientclub-downloader](https://serp.ly/clientclub-downloader)
+Start here: [https://serp.ly/clientclub-downloader?via=github](https://serp.ly/clientclub-downloader?via=github)
 
 ## Installation Instructions
 
